@@ -1,0 +1,11 @@
+name: detect-abnormal-lung
+dependencies:
+ - python=3.8
+ - numpy
+ - scipy
+ - scikit-learn
+ - jupyter 
+ - notebook 
+ - pandas 
+ - seaborn
+ - pip
